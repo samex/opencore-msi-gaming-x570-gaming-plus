@@ -25,7 +25,7 @@ Software:
    - MacProMemoryNotificationDisabler.kext (https://github.com/IOIIIO/MacProMemoryNotificationDisabler)
    - NVMeFix.kext (https://github.com/acidanthera/NVMeFix)
    - RealtekRTL8111.kext (https://github.com/Mieze/RTL8111_driver_for_OS_X)
-   - USBPorts.kext ()
+   - USBPorts.kext (Custom integrated in repo)
    - WhateverGreen.kext (https://github.com/acidanthera/whatevergreen)
    
 - MacOS Catalina 10.15.7 (Upgrade from 10.15.5 worked)
