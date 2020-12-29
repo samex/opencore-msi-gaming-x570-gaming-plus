@@ -6,6 +6,8 @@ OpenCore Files for AMD Board : MSI X570 Gaming Plus - 29.12.2020
 
 BIOS-Version: 7C37vA84 (Beta version) | SMBIOS MacPro7,1
 
+Please generate new SMBIOS for your config.plist: https://github.com/corpnewt/GenSMBIOS
+
 Based on Dortania-Guide : https://dortania.github.io/OpenCore-Desktop-Guide/
 
 Software:
@@ -41,6 +43,8 @@ Hardware:
 Used Tools:
 
 OpenCore Configurator : https://mackie100projects.altervista.org/download-clover-configurator/
+
+GenSMBIOS : https://github.com/corpnewt/GenSMBIOS
 
 Proper Tree : https://github.com/CorpNewt/ProperTree
 
