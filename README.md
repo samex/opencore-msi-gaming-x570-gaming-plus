@@ -14,7 +14,7 @@ Software:
 
 - OpenCore 0.6.4: https://github.com/acidanthera/OpenCorePkg/releases
 
- - GUI with files (icons etc.) included
+ - Resources (icons, audio files etc.) included (90MB)
  - Used Kexts (up-to-date @ 29.12.2020):
    - AMDRyzenCPUPowerManagement.kext (https://github.com/trulyspinach/SMCAMDProcessor)
    - VirtualSMC.kext (https://github.com/acidanthera/VirtualSMC)
