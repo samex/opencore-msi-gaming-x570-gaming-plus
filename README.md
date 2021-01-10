@@ -2,9 +2,17 @@
 
 # OpenCore MSI X570 Gaming Plus
 
-OpenCore Files for AMD Board : MSI X570 Gaming Plus - 29.12.2020
+OpenCore Files for AMD Board : MSI X570 Gaming Plus - 29.12.2020 
 
-BIOS-Version: 7C37vA84 (Beta version) | SMBIOS MacPro7,1
+BIOS-Version: 7C37vAB | SMBIOS MacPro7,1
+
+Hardware:
+
+- Motherboard: MSI X570 Gaming Plus (https://www.msi.com/Motherboard/support/MPG-X570-GAMING-PLUS)
+- NVMe SSD (Samsung EVO)
+- Ryzen 5 (17h, 2nd Gen.) 
+- AMD GPU (RX570) | First PCI-E slot
+- NVIDIA GPU (RTX2070), deactivated by Spoof-SSDT.aml | 2nd PCI-E slot
 
 Please generate new SMBIOS for your config.plist: https://github.com/corpnewt/GenSMBIOS
 
@@ -29,16 +37,6 @@ Software:
    - WhateverGreen.kext (https://github.com/acidanthera/whatevergreen)
    
 - MacOS Catalina 10.15.7 (Upgrade from 10.15.5 worked)
-
-
-Hardware:
-
-- Motherboard: MSI X570 Gaming Plus (BIOS 7C37vAB | 2020-11-04 ) (https://www.msi.com/Motherboard/support/MPG-X570-GAMING-PLUS)
-- NVMe SSD (Samsung EVO)
-- Ryzen 5 (17h, 2nd Gen.) 
-- AMD GPU (RX570) | First PCI-E slot
-- NVIDIA GPU (RTX2070), deactivated by Spoof-SSDT.aml | 2nd PCI-E slot
-
 
 Used Tools:
 
